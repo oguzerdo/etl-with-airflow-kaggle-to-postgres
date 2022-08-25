@@ -4,8 +4,8 @@ services:
     container_name: postgres_db
     image: postgres:13
     environment:
-      - POSTGRES_USER=root
-      - POSTGRES_PASSWORD=root
+      - POSTGRES_USER=${PG_USER}
+      - POSTGRES_PASSWORD=${PG_PASSWORD}
       - POSTGRES_DB=workshop
     volumes:
       - "./pg_data:/var/lib/postgresql/data"
