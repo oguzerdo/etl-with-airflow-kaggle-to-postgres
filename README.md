@@ -1,18 +1,18 @@
 # ETL With Airflow From Kaggle to Postgres
 
-![Untitled](ETL%20With%20Airflow%20From%20Kaggle%20to%20Postgres%20d77d19a57418473dae00e889d476a71b/Untitled.png)
+![Untitled](images/Untitled.png)
 
 In this project, the data received with kaggle api is transferred to dockerized postgresql with airflow.
 
 ### **Database ER Graph**
 
-![Untitled](ETL%20With%20Airflow%20From%20Kaggle%20to%20Postgres%20d77d19a57418473dae00e889d476a71b/Untitled%201.png)
+![Untitled](images/Untitled%201.png)
 
 ### **Tools used in the project**
 
 Docker, Kaggle API, Airflow, Pandas, SqlAlchemy, PostgreSQL
 
-![Untitled](ETL%20With%20Airflow%20From%20Kaggle%20to%20Postgres%20d77d19a57418473dae00e889d476a71b/Untitled%202.png)
+![Untitled](images/Untitled%202.png)
 
 ---
 
@@ -28,11 +28,11 @@ Learn how to install docker, [**check this**](https://docs.docker.com/engine/ins
 
 Learn how to install airflow, **[check this](https://www.youtube.com/watch?v=YDDMm9M6SFA)**
 
-![Untitled](ETL%20With%20Airflow%20From%20Kaggle%20to%20Postgres%20d77d19a57418473dae00e889d476a71b/Untitled%203.png)
+![Untitled](images/Untitled%203.png)
 
-![Untitled](ETL%20With%20Airflow%20From%20Kaggle%20to%20Postgres%20d77d19a57418473dae00e889d476a71b/Untitled%204.png)
+![Untitled](images/Untitled%204.png)
 
-![Untitled](ETL%20With%20Airflow%20From%20Kaggle%20to%20Postgres%20d77d19a57418473dae00e889d476a71b/Untitled%205.png)
+![Untitled](images/Untitled%205.png)
 
 ---
 
