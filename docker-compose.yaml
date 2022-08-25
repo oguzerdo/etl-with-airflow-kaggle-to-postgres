@@ -1,0 +1,13 @@
+version: '3'
+services:
+  pgdatabase:
+    container_name: postgres_db
+    image: postgres:13
+    environment:
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_DB=workshop
+    volumes:
+      - "./pg_data:/var/lib/postgresql/data"
+    ports:
+      - "5432:5432"
