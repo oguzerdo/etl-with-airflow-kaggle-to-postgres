@@ -2,7 +2,7 @@
 
 ![Untitled](images/Untitled.png)
 
-In this project, the data received with kaggle api is transferred to dockerized postgresql with airflow.
+Download a kaggle dataset, set up your postgres environment with docker and load it to Postgres!
 
 ### **Database ER Graph**
 
